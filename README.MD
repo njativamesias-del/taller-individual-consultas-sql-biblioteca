@@ -1,7 +1,9 @@
 # Taller 1 - Consultas SQL Avanzadas
 
 **Nombre:** Natalia Jativa
+
 **Materia:** Bases de Datos II
+
 **Profesor:** Jose Carvajal
 
 ---
