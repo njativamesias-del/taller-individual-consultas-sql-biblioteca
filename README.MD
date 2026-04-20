@@ -45,6 +45,16 @@ El repositorio contiene los siguientes archivos:
 
 ---
 
+## Herramientas utilizadas
+
+- XAMPP (Servidor local)  
+- MySQL (Motor de base de datos)  
+- phpMyAdmin (Administracion de base de datos)  
+- Visual Studio Code (Editor de codigo)  
+- GitHub (Control de versiones)
+
+---
+
 ## Instrucciones de ejecucion
 
 1. Crear la base de datos:
@@ -125,6 +135,20 @@ Esto permitio entender mejor como estructurar consultas mas completas y eficient
 
 ---
 
+## Nota tecnica
+
+El archivo db_library.sql fue ajustado para corregir errores de sintaxis relacionados con el uso de comillas simples en algunos registros, lo cual permitio la correcta importacion en MySQL.
+
+---
+
 ## Conclusion
 
-Este taller permitio reforzar el uso de SQL en consultas avanzadas, manejo de relaciones entre tablas y organizacion del codigo para su presentacion en GitHub.
+El desarrollo de este taller permitio aplicar de manera practica conceptos clave de SQL, incluyendo el uso de subconsultas, joins y funciones avanzadas.
+
+Se logro comprender la importancia de estructurar correctamente las consultas para obtener informacion precisa desde multiples tablas relacionadas.
+
+Adicionalmente, se fortalecio la organizacion del codigo y la presentacion del trabajo mediante el uso de GitHub como herramienta de control y entrega.
+
+---
+
+Repositorio desarrollado como entrega academica.
